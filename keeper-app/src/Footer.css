@@ -1,0 +1,9 @@
+footer{
+    background-color: #333; /* Set footer background color */
+    color: #fff; /* Set footer text color */
+    text-align: center; /* Align text to center */
+    padding: 20px; /* Add padding to footer */
+    position: fixed; /* Fixed position */
+    bottom: 0; /* Stick to the bottom of the viewport */
+    width: 100%; /* Full width */
+}
